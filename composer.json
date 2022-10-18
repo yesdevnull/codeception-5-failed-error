@@ -1,0 +1,8 @@
+{
+    "name": "yesdevnull/codeception-5-failed-error",
+    "type": "project",
+    "require": {
+        "php": ">= 8.0",
+        "codeception/codeception": "^5.0"
+    }
+}
